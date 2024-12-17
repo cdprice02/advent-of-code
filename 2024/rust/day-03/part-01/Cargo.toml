@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 miette = { version = "7.4.0", features = ["fancy"] }
+regex = "1.11.1"
